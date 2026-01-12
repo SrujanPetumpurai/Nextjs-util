@@ -1,5 +1,8 @@
 # Handler
 
+## Frontend
+-To get Params('/payment?status=success')
+
 ## GET Handler
 -To get params in a dynamic api like 'api/items/[category]/route.ts'
 ```js
